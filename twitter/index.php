@@ -24,10 +24,10 @@ class ezTweet {
 	/*************************************** config ***************************************/
 
    // Your Twitter App Consumer Key
-	private $consumer_key = 'Arl0P3IFQcGFXngB7SVYw';
+	private $consumer_key = 'nUvRm1ReGUxIt4C4oQG6UAVYP';
 
 	// Your Twitter App Consumer Secret
-	private $consumer_secret = 'sX9c1Fh8sPiqSuJJUTWdt9pVzOe0wl1jn6mNPZI';
+	private $consumer_secret = 'xSCLcO7hMIqXkUjIdt28lA0NjVrtYGq4sTRwwskzehydzP8uHT';
 
 	
 

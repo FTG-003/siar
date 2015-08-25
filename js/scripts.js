@@ -374,7 +374,7 @@ function initKrobs() {
 // twitter  ----------------------------------------
     if ($("#twitter-feed").length) {
         $("#twitter-feed").tweet({
-            username: "katokli3mmm",
+            username: "Fabrizio_Terzi",
             join_text: "auto",
             avatar_size: 0,
             count: 4
