@@ -809,14 +809,21 @@
                                     <p>"Available for Worldwide Teams "</i></p>
                                 </div>
                                 <div class="left-colum">
-                                     <!--contact form-->
+                                    <!--contact form-->
                                     <div id="contact-form">
-                                        <form id="contactform" action="//formspree.io/fabrizio.terzi@gmail.com" method="POST">
+                                        <div id="message"></div>
+                                       <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Your name">
-    <input type="email" name="_replyto" placeholder="Your email">
+    <input type="_replyto" name="email" placeholder="Your email">
+    <input type="hidden" name="_subject" value="Website contact" />
     <textarea name="message" placeholder="Your message"></textarea>
+    <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>
+<script>
+    var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'fabrizio.terzi' + '@' + 'gmail' + '.' + 'com');
+</script>
                                     </div>
                                 </div>
                                 <div class="right-colum">
