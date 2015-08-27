@@ -814,8 +814,10 @@
                                         <div id="message"></div>
                                         <form method="post" action="//formspree.io/fabrizio.terzi.com" name="contactform" id="contactform">
                                             <input name="name" type="text" id="name"  clas="inputForm2" onclick="this.select()" value="Name" >
-                                            <input name="email" type="text" id="email" onclick="this.select()" value="E-mail" >            
-                                            <textarea name="comments"  id="comments" onclick="this.select()" >Message</textarea>            										           											
+                                            <input name="_replyto" type="text" id="email" onclick="this.select()" placeholder="E-email" >            
+                                            <textarea name="comments"  id="comments" onclick="this.select()" >Message</textarea>            	
+
+
                                             <input type="submit" class="send_message transition" id="submit" value="Send Message" />
                                         </form>
                                     </div>
