@@ -811,13 +811,12 @@
                                 <div class="left-colum">
                                      <!--contact form-->
                                     <div id="contact-form">
-                                        <div id="message"></div>
-                                        <form method="POST" action="//formspree.io/fabrizio.terzi@gmail.com" name="contactform" id="contactform">
-                                            <input name="name" type="text" id="name"  clas="inputForm2" onclick="this.select()" value="Name" >
-                                            <input name="_replyto" type="text" id="email" onclick="this.select()" value="E-mail" >            
-                                            <textarea name="comments"  id="comments" onclick="this.select()" >Message</textarea>                              
-                                             <input type="submit" value="Send Message">  
-                                        </form>
+                                        <form id="contactform" action="//formspree.io/fabrizio.terzi@gmail.com" method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="_replyto" placeholder="Your email">
+    <textarea name="message" placeholder="Your message"></textarea>
+    <input type="submit" value="Send">
+</form>
                                     </div>
                                 </div>
                                 <div class="right-colum">
