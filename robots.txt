@@ -1,0 +1,60 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/wc/robots.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /q/includes/
+Disallow: /q/misc/
+Disallow: /q/modules/
+Disallow: /q/profiles/
+Disallow: /q/scripts/
+Disallow: /q/themes/
+# Files
+Disallow: /q/CHANGELOG.txt
+Disallow: /q/cron.php
+Disallow: /q/INSTALL.mysql.txt
+Disallow: /q/INSTALL.pgsql.txt
+Disallow: /q/INSTALL.sqlite.txt
+Disallow: /q/install.php
+Disallow: /q/INSTALL.txt
+Disallow: /q/LICENSE.txt
+Disallow: /q/MAINTAINERS.txt
+Disallow: /q/update.php
+Disallow: /q/UPGRADE.txt
+Disallow: /q/xmlrpc.php
+# Paths (clean URLs)
+Disallow: /q/admin/
+Disallow: /q/comment/reply/
+Disallow: /q/filter/tips/
+Disallow: /q/node/add/
+Disallow: /q/search/
+Disallow: /q/user/register/
+Disallow: /q/user/password/
+Disallow: /q/user/login/
+Disallow: /q/user/logout/
+# Paths (no clean URLs)
+Disallow: /q/?q=admin/
+Disallow: /q/?q=comment/reply/
+Disallow: /q/?q=filter/tips/
+Disallow: /q/?q=node/add/
+Disallow: /q/?q=search/
+Disallow: /q/?q=user/password/
+Disallow: /q/?q=user/register/
+Disallow: /q/?q=user/login/
+Disallow: /q/?q=user/logout/
