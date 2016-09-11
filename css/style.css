@@ -322,7 +322,7 @@ section h4{
 	background:rgba(49,49,49,0.2);
 }
 nav {
-	display:;
+	display:none;
 	min-height: 52px;
 	font-size: 12px;
 	color: #666;
@@ -362,12 +362,12 @@ nav .active span {
 }
 .vis{
 visibility: visible;
--webkit-transform:   scale(1);
--moz-transform:   scale(1);
--o-transform:  scale(1);
--ms-transform:   scale(1);
-transform:  scale(1);
-opacity:1;
+-webkit-transform:   scale(3.5);
+-moz-transform:   scale(3.5);
+-o-transform:  scale(3.5);
+-ms-transform:   scale(3.5);
+transform:  scale(3.5);
+opacity:0;
 }
 }
 .btn-menu-wrapper{
