@@ -57,13 +57,7 @@ body{
 @-o-viewport {width: device-width;}
 @-ms-viewport {width: device-width;}
 @viewport {width: device-width;}
-::-webkit-scrollbar , -moz-scrollbar {
-    width: 6px;
-}
-::-webkit-scrollbar-track , -moz-scrollbar {
- 	width: 6px;
-	background:#fff;	
-}
+
 /*--------------Typography--------------------------------------*/
 h1 {
 	font-size: 4.46666666667em;
@@ -893,17 +887,24 @@ footer{
 #resume {
 	padding:0;
 }
-.resume-title-holder {
+1.resume-title-holder {
 	float:left;
 	width:100%;
  	border-bottom:1px solid #eee;
 	position:relative;
 	z-index:3;
 }
+.resume-title-holder1 {
+    float:center;
+    width:100%;
+    border-bottom:1px solid #eee;
+    position:relative;
+    z-index:3;
+}
 .resume-title {
 	width:35%;
 	float:left;
-	padding:83px 0;
+	padding:100px 0;
 	position:relative;
 }
 .resume-title:before {
@@ -929,9 +930,9 @@ footer{
 }
 .download-botton-holder {
 	float:left;
-	width:65%;
+	width:18%;
 	position:relative;
-	padding:80px 0;
+	padding:70px 0;
 }
 .resume-container {
 	float:left;
