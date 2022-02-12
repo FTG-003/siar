@@ -1,0 +1,25 @@
+[1mdiff --git a/Video-CV/index-video.html b/Video-CV/index-video.html[m
+[1mindex 567bdb2..bec0b7a 100644[m
+[1m--- a/Video-CV/index-video.html[m
+[1m+++ b/Video-CV/index-video.html[m
+[36m@@ -814,7 +814,7 @@[m
+                             </div>[m
+                             <!-- TIMELINE PARAGRAPH -->[m
+                             <p>[m
+[31m-                                Rilasciato il 06/07/20121[m
+[32m+[m[32m                                Rilasciato il 06/07/2021[m[41m[m
+                             </p>[m
+                         </div>[m
+                     </div>[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex eb34c7d..0980c88 100755[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -25,7 +25,6 @@[m
+         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>[m
+         <link href='https://fonts.googleapis.com/css?family=Raleway:100,300,600,800' rel='stylesheet' type='text/css'>[m
+         <!--=============== google map ===============-->[m
+[31m-        <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>[m
+     </head>[m
+     <body onLoad="initialize()">[m
+         <!--================= main start ================-->[m
