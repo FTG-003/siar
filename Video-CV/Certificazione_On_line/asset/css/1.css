@@ -12,15 +12,9 @@
   font-style: normal;
 }
 .destra {
-  position: relative;
   display: flexbox;
   width: 200px;
-  margin: top x;; 
-}
-
-.firma{
-position: relative;
-top: -20px;
+  margin-left: 500px; 
 }
 .fa {
   display: inline-block;
