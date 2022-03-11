@@ -1229,7 +1229,7 @@ body.scale-effect .btn-holder .btn-play {
     position: relative;
     display: block;
     width: 100%;
-    opacity: 0.8; }
+    opacity: 0.9; }
 #portfolios #portfolios-card .tab-content .grid figure figcaption {
     /*image caption*/
     padding: 2em;
@@ -1784,7 +1784,7 @@ POPUP ANIMATIONS
     transition: all 0.3s linear;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
     filter: alpha(opacity=65);
-    opacity: 0.65; }
+    opacity: 1; }
 #testimonials #clients .clients-wrap ul li img:hover {
     /*logo hover effect*/
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
