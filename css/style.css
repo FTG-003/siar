@@ -363,7 +363,6 @@ visibility: visible;
 transform:  scale(3.5);
 opacity:0;
 }
-}
 .btn-menu-wrapper{
 	height:52px;
 	width:52px;
@@ -887,7 +886,7 @@ footer{
 #resume {
 	padding:0;
 }
-1.resume-title-holder {
+.resume-title-holder {
 	float:left;
 	width:100%;
  	border-bottom:1px solid #eee;
@@ -1819,6 +1818,22 @@ footer{
 	top:-160%;
 }
 /*------ Map ----------------------------------------------*/
+#map {
+	position:absolute;
+	height: 450px;
+	left: 12px;
+	right: 12px;
+	overflow: hidden;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+	.map {
+	position: absolute;
+
+	overflow: hidden;
+	left: 12px;
+	right: 12px;
+		
+}}
 #mapbox{
 	position:relative ;
 	width:100%;
@@ -1833,6 +1848,7 @@ footer{
 	left:0; 
 	width:100%;
 }
+
 /*------ Blog - ------------------------------------------------*/
 .wrapper {
 	float:left;
