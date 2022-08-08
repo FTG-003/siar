@@ -228,8 +228,9 @@ p {
 	left: 0;
 }
 .button.hide-icon span.text {
-	padding: 0 33px;
+	padding: 0px;
 }
+
 .button.hide-icon i {
 	padding: 11px 20px 10px;
 	left: -60px;
@@ -1828,11 +1829,10 @@ footer{
 @media (min-width: 320px) and (max-width: 480px) {
 	.map {
 	position: absolute;
-
 	overflow: hidden;
 	left: 12px;
 	right: 12px;
-		
+	bottom: 12px;
 }}
 #mapbox{
 	position:relative ;
