@@ -829,15 +829,34 @@
                                             <div id="message"></div>
                                             <form id="contactform" method="POST">
                                                 <input type="text" name="name" placeholder="Name" id="name"  class="inputForm2" onclick="this.select()">
-                                                <input name="email" type="text" id="email" onclick="this.select()" placeholder="E-mail">
-                                                <input type="text" name="_subject" value="Website contact"/>
+                                                <input name="email" type="email" id="email" onclick="this.select()" placeholder="E-mail">
+                                                <input type="hidden" name="_subject" value="Website contact"/>
                                                 <textarea name="message" placeholder="Your message"></textarea>
                                                 <input type="text" name="_gotcha" style="display:none"/>
                                                 <input type="submit" value="Send Message">
                                             </form>
                                             <script>
-                                                var contactform =  document.getElementById('contactform');
-                                                contactform.setAttribute('action', '//formspree.io/' + 'fabrizio.terzi' + '@' + 'gmail' + '.' + 'com');
+                                                var contactform = document.getElementById('contactform');
+                                                contactform.addEventListener('submit', function(e) {
+                                                    e.preventDefault();
+                                                    var msgDiv = document.getElementById('message');
+                                                    msgDiv.innerHTML = '<p style="color:#888;">Invio in corso...</p>';
+                                                    var data = new FormData(contactform);
+                                                    fetch('https://formspree.io/f/mayabpgj', {
+                                                        method: 'POST',
+                                                        body: data,
+                                                        headers: { 'Accept': 'application/json' }
+                                                    }).then(function(response) {
+                                                        if (response.ok) {
+                                                            msgDiv.innerHTML = '<p style="color:#27ae60;">✓ Message sent — thank you!</p>';
+                                                            contactform.reset();
+                                                        } else {
+                                                            msgDiv.innerHTML = '<p style="color:#e74c3c;">✗ Something went wrong. Try again later.</p>';
+                                                        }
+                                                    }).catch(function() {
+                                                        msgDiv.innerHTML = '<p style="color:#e74c3c;">✗ Network error. Please check your connection.</p>';
+                                                    });
+                                                });
                                             </script>
                                         </div>
                                     </div>

@@ -1211,8 +1211,7 @@
                     <!-- CONTACT FORM -->
                     <div class="card">
                         <div class="card-content">
-                            <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8"
-                                action="https://formspree.io/f/mayabpgj" method="post">
+                            <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" method="post">
                                 <fieldset id="fs-frm-inputs">
                                     <label for="full-name">Nome</label>
                                     <input type="text" name="name" id="full-name" placeholder="" required="">
@@ -1226,10 +1225,33 @@
                                 <input type="submit" value="Invia">
                             </form>
 
-                            <!--FORM LOADER-->
-                            <div id="form-loader" class="progress is-hidden">
-                                <div class="indeterminate"></div>
-                            </div>
+                            <script>
+                                document.getElementById('fs-frm').addEventListener('submit', function(e) {
+                                    e.preventDefault();
+                                    var btn = this.querySelector('input[type="submit"]');
+                                    var origVal = btn.value;
+                                    btn.value = 'Invio in corso...';
+                                    btn.disabled = true;
+                                    var data = new FormData(this);
+                                    fetch('https://formspree.io/f/mayabpgj', {
+                                        method: 'POST',
+                                        body: data,
+                                        headers: { 'Accept': 'application/json' }
+                                    }).then(function(response) {
+                                        if (response.ok) {
+                                            alert('✓ Messaggio inviato! Grazie.');
+                                            e.target.reset();
+                                        } else {
+                                            alert('✗ Errore nell\'invio. Riprova più tardi.');
+                                        }
+                                    }).catch(function() {
+                                        alert('✗ Errore di rete. Controlla la connessione.');
+                                    }).finally(function() {
+                                        btn.value = origVal;
+                                        btn.disabled = false;
+                                    });
+                                });
+                            </script>
                         </div>
                     </div>
                 </div>
