@@ -1704,7 +1704,7 @@ footer{
 	padding:80px 50px;
 	margin-top:30px;
 }	
-#contact-form input[type="text"], #contact-form input[type="email"], textarea {
+#contact-form input[type="text"], textarea {
 	float:left;
 	width: 100%;
 	background:none;
