@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://fabrizio.pyragogy.org/</id>
+  <title>Fabrizio Terzi</title>
+  <subtitle>Freelance Researcher, E-Learning Specialist, IT Consultant</subtitle>
+  <link href="https://fabrizio.pyragogy.org/feed.xml" rel="self"/>
+  <link href="https://fabrizio.pyragogy.org" rel="alternate"/>
+  <updated>2026-08-29T00:00:00Z</updated>
+  <author>
+    <name>Fabrizio Terzi</name>
+  </author>
+  <entry>
+    <title>Fabrizio Terzi — Personal Site</title>
+    <link href="https://fabrizio.pyragogy.org/" rel="alternate"/>
+    <id>https://fabrizio.pyragogy.org/</id>
+    <updated>2026-08-29T00:00:00Z</updated>
+    <summary>Freelance Researcher, E-Learning Specialist, IT Consultant — Founder of Pyragogy &amp; Obliqo.</summary>
+  </entry>
+</feed>

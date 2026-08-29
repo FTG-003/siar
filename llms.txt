@@ -1,0 +1,103 @@
+# Fabrizio Terzi — Personal Site
+# https://fabrizio.pyragogy.org
+#
+# Freelance Researcher, E-Learning Specialist, IT Consultant
+# Signed: Fabrizio Terzi
+# Date  : 2026-08-29
+
+## About
+
+Freelance Researcher, @BergamoHub E-Learning Specialist - IT consultant - Technical Support & Training
+
+## Pages
+
+- Home: https://fabrizio.pyragogy.org/
+- E-1- Learning Theory ☀ Learning City Point: https://fabrizio.pyragogy.org/MITx/index
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/1a
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti1-1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti2-1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti2-2
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti3-1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti4-1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti4-2
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti5-1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti6-1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/assigment/compiti6-2
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/blog
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/blog/1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/blog/1a
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/groups/0
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/groups/1
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/groups/2
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/groups/3
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/groups/4
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/interview
+- /MITx/pages/lessons/lezioni: https://fabrizio.pyragogy.org/MITx/pages/lessons/lezioni
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/map
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/portfolio
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/skills
+- /MITx/pages/unita/u1: https://fabrizio.pyragogy.org/MITx/pages/unita/u1
+- /MITx/pages/unita/u2: https://fabrizio.pyragogy.org/MITx/pages/unita/u2
+- /MITx/pages/unita/u3: https://fabrizio.pyragogy.org/MITx/pages/unita/u3
+- /MITx/pages/unita/u4: https://fabrizio.pyragogy.org/MITx/pages/unita/u4
+- /MITx/pages/unita/u5: https://fabrizio.pyragogy.org/MITx/pages/unita/u5
+- /MITx/pages/unita/u6: https://fabrizio.pyragogy.org/MITx/pages/unita/u6
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/a
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/b
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/c
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/d
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/e
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/f
+- Untitled: https://fabrizio.pyragogy.org/MITx/pages/video/g
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-1
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-10
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-2
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-3
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-3b
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-4
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-5
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-6
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-7
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-8
+- Untitled: https://fabrizio.pyragogy.org/projects/fabrizio-project-9
+- Untitled: https://fabrizio.pyragogy.org/projects/modal
+- Untitled: https://fabrizio.pyragogy.org/projects/modal2
+- Untitled: https://fabrizio.pyragogy.org/projects/modal3
+- Untitled: https://fabrizio.pyragogy.org/projects/pixel
+- Untitled: https://fabrizio.pyragogy.org/projects/project-ajax3
+- Untitled: https://fabrizio.pyragogy.org/projects/VR-Gallery_Modern
+- Untitled: https://fabrizio.pyragogy.org/projects/VR-Gallery
+- Attestazione di frequenza: https://fabrizio.pyragogy.org/Video-CV/Certificazione_On_line/index
+- Video CV | Fabrizio Terzi: https://fabrizio.pyragogy.org/Video-CV/index-video
+
+## Projects
+
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-1
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-10
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-2
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-3
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-3b
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-4
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-5
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-6
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-7
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-8
+- https://fabrizio.pyragogy.org/projects/fabrizio-project-9
+- https://fabrizio.pyragogy.org/projects/modal
+- https://fabrizio.pyragogy.org/projects/modal2
+- https://fabrizio.pyragogy.org/projects/modal3
+- https://fabrizio.pyragogy.org/projects/pixel
+- https://fabrizio.pyragogy.org/projects/project-ajax3
+- https://fabrizio.pyragogy.org/projects/VR-Gallery_Modern
+- https://fabrizio.pyragogy.org/projects/VR-Gallery
+
+## Video CV
+
+- https://fabrizio.pyragogy.org/Video-CV/Certificazione_On_line/index
+- https://fabrizio.pyragogy.org/Video-CV/index-video
+
+## Full content
+
+For the complete text of every page, see: https://fabrizio.pyragogy.org/llms-full.txt
